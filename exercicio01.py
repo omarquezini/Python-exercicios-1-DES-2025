@@ -14,4 +14,3 @@ elif curso02 > curso01:
     print("cursso02 teve mais avaliaçoes.")
 else:
     print("o curso01 teve mais avaliaçoes.")
-
