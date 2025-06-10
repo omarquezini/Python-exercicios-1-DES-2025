@@ -3,3 +3,9 @@
 
 AnoB6 = int(input("digite o numero do(e) ano(s): "))
 
+if AnoB6 / 4 == 0 or AnoB6 / 400 == 0:
+    print ("esse ano é bissexto. ")
+elif AnoB6 / 100 == 0:
+    print ("esse ano não é bissexto.")
+else:
+    print ("esse ano não é bissexto.")
